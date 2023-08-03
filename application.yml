@@ -1,0 +1,9 @@
+datosservidor:
+  minimum: 1112
+  maximum: 2223
+limites:
+  minimum: -1113
+  maximum: 2224
+valores:
+  valor_fijo: VALORFIJO
+  valor_funcion: "VALORDEFUNCION"
