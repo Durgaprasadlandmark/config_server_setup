@@ -1,6 +1,6 @@
 datosservidor:
   minimum: 1119
-  maximum: 2224
+  maximum: 2223
 limites:
   minimum: -1113
   maximum: 2228
