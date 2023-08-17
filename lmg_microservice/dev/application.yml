@@ -2,7 +2,7 @@ datosservidor:
   minimum: 9999
   maximum: 9999
 limites:
-  minimum: -7777
+  minimum: -4444
   maximum: 3333
 valores:
   valor_fijo: VALORFIJO
