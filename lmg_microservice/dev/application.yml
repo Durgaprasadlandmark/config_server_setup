@@ -1,5 +1,5 @@
 datosservidor:
-  minimum: 9999
+  minimum: 9996
   maximum: 9999
 limites:
   minimum: -4444
