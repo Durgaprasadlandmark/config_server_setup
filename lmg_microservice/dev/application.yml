@@ -3,7 +3,7 @@ datosservidor:
   maximum: 9999
 limites:
   minimum: -4444
-  maximum: 1111
+  maximum: 4444
 valores:
   valor_fijo: VALORFIJO
   valor_funcion: "VALORDEFUNCION"
